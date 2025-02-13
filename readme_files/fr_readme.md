@@ -32,7 +32,7 @@ Vous trouverez ci-dessous une sélection de tableaux de bord Power BI que j’ai
   - Informations marketing pour guider les stratégies promotionnelles.
 - **Lien vers la**  [démonstration](https://app.powerbi.com/view?r=eyJrIjoiYTA1YzQ5MzYtNWEyOC00YTc0LTk2MDYtODQyNWU3Zjk4ZmI2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![Spotify Dashboard](Images/spotify-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYTA1YzQ5MzYtNWEyOC00YTc0LTk2MDYtODQyNWU3Zjk4ZmI2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Spotify Dashboard](../Images/spotify-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYTA1YzQ5MzYtNWEyOC00YTc0LTk2MDYtODQyNWU3Zjk4ZmI2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -44,7 +44,7 @@ Vous trouverez ci-dessous une sélection de tableaux de bord Power BI que j’ai
   - Met en évidence les tendances dans les catégories de service pour l’amélioration.
 - **Lien vers la**  [démonstration](https://app.powerbi.com/view?r=eyJrIjoiY2JjNDRlNGItMWZlNS00NjJiLTljODktMWE5YTg1NDBkYTExIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![IT Service Dashboard](Images/it-service-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiY2JjNDRlNGItMWZlNS00NjJiLTljODktMWE5YTg1NDBkYTExIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![IT Service Dashboard](../Images/it-service-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiY2JjNDRlNGItMWZlNS00NjJiLTljODktMWE5YTg1NDBkYTExIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -56,7 +56,7 @@ Vous trouverez ci-dessous une sélection de tableaux de bord Power BI que j’ai
   - Tendances de turnover par département et par genre.
 - **Lien vers la**  [démonstration](https://app.powerbi.com/view?r=eyJrIjoiOGY2YzcyZmQtMGU4YS00ZjllLWJkM2ItYjU4NWE5MzA3Y2MyIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![HR Dashboard](Images/hr-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiOGY2YzcyZmQtMGU4YS00ZjllLWJkM2ItYjU4NWE5MzA3Y2MyIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![HR Dashboard](../Images/hr-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiOGY2YzcyZmQtMGU4YS00ZjllLWJkM2ItYjU4NWE5MzA3Y2MyIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -68,11 +68,11 @@ Vous trouverez ci-dessous une sélection de tableaux de bord Power BI que j’ai
   - Suivi de la croissance des ventes d’une année sur l’autre.
 - **Lien vers la**  [démonstration](https://app.powerbi.com/view?r=eyJrIjoiOTU2NzE0NTYtMjFkYy00NDczLWE2NDUtODM5ZmFmZWIwYTRhIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![Electronics Sales Dashboard](Images/electronics-sales-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiOTU2NzE0NTYtMjFkYy00NDczLWE2NDUtODM5ZmFmZWIwYTRhIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Electronics Sales Dashboard](../Images/electronics-sales-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiOTU2NzE0NTYtMjFkYy00NDczLWE2NDUtODM5ZmFmZWIwYTRhIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
-###[**5. Tableau de Bord Work Web**
+### **5. Tableau de Bord Work Web**
 - **Description** : Un tableau de bord de visualisation d’espace de travail conçu pour mettre en valeur une application de recrutement sur Power BI afin de suivre les offres d’emploi.
 - **Principales fonctionnalités** :
   - Descriptions de postes en temps réel.
@@ -80,7 +80,7 @@ Vous trouverez ci-dessous une sélection de tableaux de bord Power BI que j’ai
   - Navigation du tableau de bord optimisée pour l’expérience utilisateur.
 - **Lien vers la**  [démonstration](https://app.powerbi.com/view?r=eyJrIjoiZGNjMTY1MGYtYjIwYy00MjE1LWJmZjMtNTE0MDQzODhlMDc2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![Work Web Dashboard](Images/work-web-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZGNjMTY1MGYtYjIwYy00MjE1LWJmZjMtNTE0MDQzODhlMDc2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Work Web Dashboard](../Images/work-web-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZGNjMTY1MGYtYjIwYy00MjE1LWJmZjMtNTE0MDQzODhlMDc2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -93,7 +93,7 @@ Vous trouverez ci-dessous une sélection de tableaux de bord Power BI que j’ai
   - Segmentation des données par canal, pays et magasin pour une analyse approfondie.
 - **Lien vers la**  [démonstration](https://app.powerbi.com/view?r=eyJrIjoiNWU4MDI2ZTYtZmZiZS00YjRhLTk1ZWItYTUyMTc1NDg1MzZjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![Agents Performance](Images/agents-performance.png)](https://app.powerbi.com/view?r=eyJrIjoiNWU4MDI2ZTYtZmZiZS00YjRhLTk1ZWItYTUyMTc1NDg1MzZjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Agents Performance](../Images/agents-performance-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNWU4MDI2ZTYtZmZiZS00YjRhLTk1ZWItYTUyMTc1NDg1MzZjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -106,7 +106,7 @@ Vous trouverez ci-dessous une sélection de tableaux de bord Power BI que j’ai
   - Visualisation des tendances de conversion et segmentation des données par secteur, compte et produit.
 - **Lien vers la**  [démonstration](https://app.powerbi.com/view?r=eyJrIjoiNTY1ODY2N2MtZTBhYy00OGQwLWFiMzMtYTVjYjM4OGRhNDFjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![Agents Performance](Images/sales-teams-performance-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNTY1ODY2N2MtZTBhYy00OGQwLWFiMzMtYTVjYjM4OGRhNDFjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Agents Performance](../Images/sales-teams-performance-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNTY1ODY2N2MtZTBhYy00OGQwLWFiMzMtYTVjYjM4OGRhNDFjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
