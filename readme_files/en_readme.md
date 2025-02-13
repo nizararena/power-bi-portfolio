@@ -32,7 +32,7 @@ Below is a selection of Power BI dashboards I have developed. Each project demon
   - Marketing insights for promotional strategies.
 - **Link to the**  [demo](https://app.powerbi.com/view?r=eyJrIjoiYTA1YzQ5MzYtNWEyOC00YTc0LTk2MDYtODQyNWU3Zjk4ZmI2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![Spotify Dashboard](Images/spotify-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYTA1YzQ5MzYtNWEyOC00YTc0LTk2MDYtODQyNWU3Zjk4ZmI2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Spotify Dashboard](../Images/spotify-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYTA1YzQ5MzYtNWEyOC00YTc0LTk2MDYtODQyNWU3Zjk4ZmI2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 
 
@@ -47,7 +47,7 @@ Below is a selection of Power BI dashboards I have developed. Each project demon
 - **Link to the**  [demo](https://app.powerbi.com/view?r=eyJrIjoiY2JjNDRlNGItMWZlNS00NjJiLTljODktMWE5YTg1NDBkYTExIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 
-[![IT Service Dashboard](Images/it-service-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiY2JjNDRlNGItMWZlNS00NjJiLTljODktMWE5YTg1NDBkYTExIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![IT Service Dashboard](../Images/it-service-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiY2JjNDRlNGItMWZlNS00NjJiLTljODktMWE5YTg1NDBkYTExIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -60,7 +60,7 @@ Below is a selection of Power BI dashboards I have developed. Each project demon
 - **Link to the**  [demo](https://app.powerbi.com/view?r=eyJrIjoiOGY2YzcyZmQtMGU4YS00ZjllLWJkM2ItYjU4NWE5MzA3Y2MyIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 
-[![HR Dashboard](Images/hr-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiOGY2YzcyZmQtMGU4YS00ZjllLWJkM2ItYjU4NWE5MzA3Y2MyIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![HR Dashboard](../Images/hr-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiOGY2YzcyZmQtMGU4YS00ZjllLWJkM2ItYjU4NWE5MzA3Y2MyIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -73,7 +73,7 @@ Below is a selection of Power BI dashboards I have developed. Each project demon
 - **Link to the**  [demo](https://app.powerbi.com/view?r=eyJrIjoiOTU2NzE0NTYtMjFkYy00NDczLWE2NDUtODM5ZmFmZWIwYTRhIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 
-[![Electronics Sales Dashboard](Images/electronics-sales-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiOTU2NzE0NTYtMjFkYy00NDczLWE2NDUtODM5ZmFmZWIwYTRhIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Electronics Sales Dashboard](../Images/electronics-sales-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiOTU2NzE0NTYtMjFkYy00NDczLWE2NDUtODM5ZmFmZWIwYTRhIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -86,7 +86,7 @@ Below is a selection of Power BI dashboards I have developed. Each project demon
 - **Link to the**  [demo](https://app.powerbi.com/view?r=eyJrIjoiZGNjMTY1MGYtYjIwYy00MjE1LWJmZjMtNTE0MDQzODhlMDc2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
   
-[![Work Web Dashboard](Images/work-web-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZGNjMTY1MGYtYjIwYy00MjE1LWJmZjMtNTE0MDQzODhlMDc2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Work Web Dashboard](../Images/work-web-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZGNjMTY1MGYtYjIwYy00MjE1LWJmZjMtNTE0MDQzODhlMDc2IiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -99,7 +99,7 @@ Below is a selection of Power BI dashboards I have developed. Each project demon
   - Data segmentation by channel, country, and store for in-depth analysis.
 - **Link to the**  [demo](https://app.powerbi.com/view?r=eyJrIjoiNWU4MDI2ZTYtZmZiZS00YjRhLTk1ZWItYTUyMTc1NDg1MzZjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![Agents Performance](Images/agents-performance.png)](https://app.powerbi.com/view?r=eyJrIjoiNWU4MDI2ZTYtZmZiZS00YjRhLTk1ZWItYTUyMTc1NDg1MzZjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Agents Performance](../Images/agents-performance-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNWU4MDI2ZTYtZmZiZS00YjRhLTk1ZWItYTUyMTc1NDg1MzZjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
@@ -112,7 +112,7 @@ Below is a selection of Power BI dashboards I have developed. Each project demon
   - Visualization of conversion trends and data segmentation by sector, account, and product.
 - **Link to the**  [demo](https://app.powerbi.com/view?r=eyJrIjoiNTY1ODY2N2MtZTBhYy00OGQwLWFiMzMtYTVjYjM4OGRhNDFjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
-[![Agents Performance](Images/sales-teams-performance-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNTY1ODY2N2MtZTBhYy00OGQwLWFiMzMtYTVjYjM4OGRhNDFjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
+[![Agents Performance](../Images/sales-teams-performance-dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiNTY1ODY2N2MtZTBhYy00OGQwLWFiMzMtYTVjYjM4OGRhNDFjIiwidCI6ImZkOWMxOGU5LTljZTktNDhjZC05NDQyLTc0YTkyZjg2NTlmNyJ9)
 
 ---
 
