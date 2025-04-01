@@ -72,7 +72,7 @@ Vous trouverez ci-dessous une sélection de tableaux de bord Power BI que j’ai
 
 ---
 
-###[**5. Tableau de Bord Work Web**
+### **5. Tableau de Bord Work Web**
 - **Description** : Un tableau de bord de visualisation d’espace de travail conçu pour mettre en valeur une application de recrutement sur Power BI afin de suivre les offres d’emploi.
 - **Principales fonctionnalités** :
   - Descriptions de postes en temps réel.
