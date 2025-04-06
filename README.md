@@ -1,6 +1,7 @@
-## [English Version](readme_files/fr_readme.md) [![English](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png)](readme_files/en_readme.md)
-- Welcome! Select the English badge above if you prefer instructions in English.
+## [Visit New Website (English)](https://your-new-website.com/en) [![English](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png)](https://your-new-website.com/en)
+- Welcome! Click the flag or the link above for the English version of our new site.
+
 ---
 
-## [Version Française](readme_files/fr_readme.md) [![Français](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png)](readme_files/fr_readme.md)
-- Bienvenue ! Sélectionnez le badge Français ci-dessus si vous préférez des instructions en français.  
+## [Visitez le nouveau site (Français)](https://your-new-website.com/fr) [![Français](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png)](https://your-new-website.com/fr)
+- Bienvenue ! Cliquez sur le drapeau ou le lien ci-dessus pour la version française de notre nouveau site.
